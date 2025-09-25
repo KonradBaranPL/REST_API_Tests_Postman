@@ -1,0 +1,21 @@
+{
+	"id": "e95d7070-24f1-4fc3-a6df-4bbde5be8848",
+	"name": "TRELLO Windows 11",
+	"values": [
+		{
+			"key": "key",
+			"value": "18a796421b243fda27700d4e49bbccde",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "ATTAf82e8f88f07b695c04c41009be80d41ccf80a8080cb60844eb6842158b4e054bC85AF46E",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-09-24T09:33:19.610Z",
+	"_postman_exported_using": "Postman/11.64.0"
+}
