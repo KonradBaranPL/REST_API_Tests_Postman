@@ -14,4 +14,10 @@ Postman – creating requests and test scripts
 JavaScript – test script logic in Postman
 Newman – CLI tool for running Postman collections
 Python – integration script to execute Newman and handle results
-GitHub – version control and project hosting 
+GitHub – version control and project hosting
+
+## Getting started locally
+Clone the repository:
+
+```bash
+git clone https://github.com/KonradBaranPL/REST_API_Tests_Postman.git
